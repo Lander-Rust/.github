@@ -26,9 +26,9 @@ https://github.com/user-attachments/assets/cf1c27b4-1921-4f4d-944f-a17a64455f53
 
 Achieved using a mechanical C > Rust translator, in concert with a great deal of refactoring, and stringent unit-testing for compatibility.
 
-[libnuked-opn2-port](https://github.com/Lander-Rust/libnuked-opn2-port)
-
 [opn2-rs](https://github.com/Lander-Rust/opn2-rs)
+
+[libnuked-opn2-port](https://github.com/Lander-Rust/libnuked-opn2-port)
 
 ## Antigen
 
