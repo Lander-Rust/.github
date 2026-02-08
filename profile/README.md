@@ -6,7 +6,7 @@ Various projects and experiments created in Rust.
 
 A novel non-photorealistic renderer built on Bevy, combining implicit surfaces with palettized rendering and PBR lighting.
 
-![image](https://github.com/Lander-Rust/palette-lighting/raw/master/captures/1920x1200.png)
+![Palette Lighting - 1920x1200](https://github.com/Lander-Rust/palette-lighting/raw/master/captures/1920x1200.png)
 
 ### [Software Renderer](https://github.com/Lander-Rust/software_rendering)
 
