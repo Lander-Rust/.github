@@ -52,7 +52,7 @@ Iterative attempts at building a custom ECS-based game engine from first (throug
 
 ### [Type-level BASIC](https://github.com/Lander-Rust/tlp-basic)
 
-A simple BASIC environment encoded with type-level programming. Interprets into Rust at compile-time.
+A simple BASIC interpreter encoded with type-level programming.
 
 ### [Higher-Kinded Type Emulation](https://github.com/Lander-Rust/hkt_emulation)
 
