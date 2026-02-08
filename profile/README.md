@@ -1,5 +1,3 @@
-# Rust
-
 Various projects and experiments created in Rust.
 
 ## Computer Graphics
@@ -18,15 +16,15 @@ Another novel non-photorealistic renderer, this time oriented around buffer-spac
 
 A practical hardware instancing plugin for the Bevy game engine.
 
-## YM2612
+## Yamaha OPN2
+
+A Rust port of NukeyT's reverse-engineered YM2612 chip (otherwise known as the sound of the Sega Mega Drive,) and a high-level interface capable of accurate VGM playback.
+
+Achieved using a mechanical C > Rust translator, in concert with a great deal of refactoring, and stringent unit-testing for compatibility.
 
 [libnuked-opn2-port](https://github.com/Lander-Rust/libnuked-opn2-port)
 
 [opn2-rs](https://github.com/Lander-Rust/opn2-rs)
-
-A Rust port + high-level interface to NukeyT's reverse-engineered Yamaha OPN2 library. Capable of accurate VGM playback.
-
-Achieved using a mechanical C > Rust translator, in concert with a great deal of refactoring, and stringent unit-testing for compatibility.
 
 ## Antigen
 
