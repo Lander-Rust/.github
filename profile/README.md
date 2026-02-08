@@ -10,7 +10,7 @@ A novel non-photorealistic renderer built on Bevy, combining implicit surfaces w
 
 ### [Software Renderer](https://github.com/Lander-Rust/software_rendering)
 
-Another novel non-photorealistic renderer, this time focused around animations as rasterizable buffer data.
+Another novel non-photorealistic renderer, this time focused around palette animations as rasterizable buffer data.
 
 [software-renderer.webm](https://github.com/user-attachments/assets/4455ba08-d5de-4952-b4d0-e1d8f25feed6)
 
