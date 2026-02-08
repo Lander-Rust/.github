@@ -18,7 +18,9 @@ A practical hardware instancing plugin for the Bevy game engine.
 
 ## Yamaha OPN2
 
-A Rust port of NukeyT's reverse-engineered YM2612 chip (otherwise known as the sound of the Sega Mega Drive,) and a high-level interface capable of accurate VGM playback.
+A Rust port of NukeyT's reverse-engineered YM2612 chip (otherwise known as the sound of the Sega Mega Drive,) and a high-level interface capable of VGM playback.
+
+https://github.com/user-attachments/assets/cf1c27b4-1921-4f4d-944f-a17a64455f53
 
 Achieved using a mechanical C > Rust translator, in concert with a great deal of refactoring, and stringent unit-testing for compatibility.
 
