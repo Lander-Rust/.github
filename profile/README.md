@@ -6,7 +6,7 @@ Various projects and experiments created in Rust.
 
 ### [Palette Lighting](https://github.com/Lander-Rust/palette-lighting)
 
-A novel non-photorealistic renderer combining implicit surfaces with palettized rendering and PBR lighting.
+A novel non-photorealistic renderer built on Bevy, combining implicit surfaces with palettized rendering and PBR lighting.
 
 ![image](https://github.com/Lander-Rust/palette-lighting/raw/master/captures/1920x1200.png)
 
